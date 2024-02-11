@@ -10,9 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@scrow/core": "^0.7.0",
+    "@cmdcode/buff": "^2.2.5",
+    "@reduxjs/toolkit": "^2.1.0",
+    "@scrow/core": "^0.7.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.55",
